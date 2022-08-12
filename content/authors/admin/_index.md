@@ -53,7 +53,7 @@ social:
   link: https://osf.io/umbgc/
 - icon: envelope
   icon_pack: fas
-  link: mailto:shello@samuelcornell.com
+  link: mailto:hello@samuelcornell.com
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4944-7826
