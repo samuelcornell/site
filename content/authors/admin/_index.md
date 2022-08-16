@@ -30,7 +30,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/samuel-c-52401b242/
 organizations:
-  - name: University of Sydney/ University of New South Wales
+  - name: Beach Safety Research Group University of New South Wales
     url: null
 education:
   courses:
@@ -48,8 +48,6 @@ I am a PhD student working with the [Beach Safety Research Group](https://www.be
 
 My project aims to determine the incidence of, and causal factors associated with, injuries and fatalities that occur in Australian aquatic locations that are frequented Instagram users as well as co-design place-based safety messages that alert users, and then to effectiveness and acceptability of such messages.
 
-
-
-
+I previously worked with the University of Sydney Health Literacy Lab across multiple projects including cardiovacular disease risk assessment and COVID-19 research.
 
 {{< icon name="download" pack="fas" >}} Download my academic {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}} or my professional {{< staticref "/uploads/resume_cornell.pdf" "newtab" >}}resume{{< /staticref >}}
