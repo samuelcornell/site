@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Check out my work and get in touch to find out how I can help your projects be communicated'
 subtitle: ''
 
 content:
@@ -22,9 +22,11 @@ content:
 
 
 design:
+  background:
+  image: rip.jpg
   columns: '1'
   view: masonry
   flip_alt_rows: true
-  background: {}
+  background: {rip.jpg}
   spacing: {padding: [0, 0, 0, 0]}
 ---

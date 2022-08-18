@@ -13,8 +13,8 @@ cta_alt:
 cta_note:
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    image: beach.jpg
+    color: white
     text_color_light: true
 advanced:
   css_class: 
