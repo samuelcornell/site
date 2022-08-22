@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Check out my work and get in touch to find out how I can help your projects be communicated'
+title: 'Check out my work and get in touch - let's collaborate!'
 subtitle: ''
 
 content:

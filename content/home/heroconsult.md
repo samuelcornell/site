@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 20
-title: A technical consultant that puts communication first
+title: Putting communication at the heart of Beach Safety
 cta:
 
 cta_note: 
