@@ -8,9 +8,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: 'Check out my work and get in touch - let's collaborate!'
+title: 'Check out my work'
 subtitle: ''
 
 content:
