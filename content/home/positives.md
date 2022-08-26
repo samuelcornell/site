@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 30
+weight: 60
 title: Check out my recent paper on the Positives of COVID-19 and also the associated media article published in local Sydney magazine *The Beast*
 hero_media: 
 cta:
@@ -12,9 +12,12 @@ cta_alt:
   url: uploads/positives_article.pdf
 cta_note:
 design:
+  design:
   background:
-    image: beach.jpg
-    color: white
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 advanced:
   css_class: 

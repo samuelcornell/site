@@ -47,13 +47,12 @@ email: hello@samuelcornell.com
 superuser: true
 highlight_name: true
 ---
-I am a PhD student working with the [Beach Safety Research Group](https://www.beachsafetyresearch.com/sam-cornell) 🏖️ 🔬to determine the efficacy and effectiveness of using location-based social media 📱 safety messaging, at dangerous aquatic locations, to reduced injuries and fatalities.
+Sam is a PhD student working with the [Beach Safety Research Group](https://www.beachsafetyresearch.com/sam-cornell) 🏖️ 🔬 to determine the efficacy and effectiveness of using location-based social media 📱 safety messaging to reduce injuries and fatalities at aquatic Instagram hotspots.
 
-My project aims to determine the incidence of, and causal factors associated with, injuries and fatalities that occur in Australian aquatic locations that are frequented by Instagram users. I will co-design place-based safety messages that alert users to present geographical hazards, and then evaluate the effectiveness and acceptability of these messages by social media users.
+Previously, Sam worked with the University of Sydney [Health Literacy Lab](https://www.sydneyhealthliteracylab.org.au/lab) across multiple projects including cardiovascular disease risk assessment and COVID-19 research.
 
-I previously worked with the University of Sydney [Health Literacy Lab](https://www.sydneyhealthliteracylab.org.au/lab) across multiple projects including cardiovascular disease risk assessment and COVID-19 research.
+Sam is a believer of open-science research practices, and a promoter of public engagement of science. He aims to communicate science effectively to promote greater understanding and knowledge across all Australian communities.
 
-I am a believer of open-science research practices, and a promoter of public engagement of science. I strive to communicate science effectively to promote greater understanding and knowledge across all communities.
+Sam is a patrolling member with Surf Life Saving, and also works with the Australian UAV service which uses innovative drone technology to keep beach users safe. In addition to this, Sam is involved with Surf Life Saving education as a Beach Safety Presenter.
 
-
-{{< icon name="download" pack="fas" >}} Download my academic {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}} or my professional {{< staticref "/uploads/resume_cornell.pdf" "newtab" >}}resume{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download Sam's academic {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}} or his professional {{< staticref "/uploads/resume_cornell.pdf" "newtab" >}}resume{{< /staticref >}}
