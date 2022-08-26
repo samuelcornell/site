@@ -1,9 +1,9 @@
 ---
 
 
-title: 'I am learning Tableau'
+title: 'Tableau dashboards'
 subtitle: ''
-summary: ''
+summary: 'I am currently upskilling in Tableau to use for my PhD work'
 authors:
 - Samuel Cornell
 tags: [health]
@@ -18,7 +18,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'center'
   preview_only: false
 
 # Projects (optional).
