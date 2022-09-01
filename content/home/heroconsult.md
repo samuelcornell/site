@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 20
+weight: 30
 title: Putting communication at the heart of Beach Safety
 cta:
 

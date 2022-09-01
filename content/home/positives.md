@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 60
+weight: 50
 title: Check out my recent paper on the Positives of COVID-19 and also the associated media article published in local Sydney magazine *The Beast*
 hero_media: 
 cta:

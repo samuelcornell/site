@@ -4,10 +4,14 @@ role: Researcher ⋄ UNSW Sydney PhD candidate
 bio: A public health researcher with a focus on communication.
 interests:
   - Risk communication
+  - Data visualisation
   - Physiological response to high stress environments
   - Disaster preparedness and response
   - Social media effects on risk taking and drowning
 social:
+  - icon: researcherid
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/AAM-4932-2021
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=OAf4eV4AAAAJ&hl=en
