@@ -9,9 +9,6 @@ interests:
   - Disaster preparedness and response
   - Social media effects on risk taking and drowning
 social:
-  - icon: researcherid
-    icon_pack: ai
-    link: https://www.webofscience.com/wos/author/record/AAM-4932-2021
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=OAf4eV4AAAAJ&hl=en
@@ -27,9 +24,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/samuelcornell
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/cornellsurf
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/samuel-c-52401b242/
